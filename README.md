@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 
-   <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+   <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" />
   
 </p>
 <h1 align="center">Hey there, I'm Abubakar</h1>
