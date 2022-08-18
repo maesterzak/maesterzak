@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
 
-   <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" />
-  
-</p>
 <h1 align="center">Hey there, I'm Abubakar</h1>
 
 <h3 align="center">I am a budding fullstack web developer who enjoys coding, learning new framworks and programming langauges</h3>
