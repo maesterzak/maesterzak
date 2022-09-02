@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">I am a budding fullstack web developer who enjoys coding, learning new framworks and programming langauges</h3>
 
-- 🔭 I’m currently working on adding the mini-mall section to my website and running Alx fullstack nano degree program on Udacity.
+- 🔭 I’m currently working on adding the mini-mall section to my website and running ALX software engineering program.
 - 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate on Django, React.js and Next.js web projects.
 - 🤔 I’m looking for project ideas that can challenge my ability as a web developer.
