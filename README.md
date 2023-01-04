@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: abubakarzakari1703@gmail.com
 - ⚡ Motto: Virtually anything can be done through programming as long as you have an idea what lines of code to combine to achieve your goal.
 
-<div align="center">
+<!-- <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=maesterzak&theme=blue-green" />
   </div>
-</div>
+</div> -->
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
